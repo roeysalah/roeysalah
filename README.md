@@ -30,18 +30,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="OMNeT++" width="30px" style="padding-right:10px;"
-src="https://upload.wikimedia.org/wikipedia/commons/2/21/OMNeT%2B%2B_Logo.png" />
-<img align="left" alt="GNS3" width="30px" style="padding-right:10px;"
-src="https://upload.wikimedia.org/wikipedia/commons/6/6c/GNS3_logo.svg" />
 <img align="left" alt="Wireshark" width="30px" style="padding-right:10px;"
 src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
-<img align="left" alt="GNU Radio" width="30px" style="padding-right:10px;"
-src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gnuradio_logo.png" />
-<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" />
-<img align="left" alt="VMware" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" />
 
 <br />
 ---
