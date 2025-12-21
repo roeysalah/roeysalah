@@ -16,10 +16,12 @@ interacts with networks, latency, reliability, and real-world constraints.
 ## 🧠 Core Programming Skills
 
 ### 💻 Languages
-- C / C++
-- Python
-- MATLAB
-- Wolfram Mathematica
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="Wolfram Mathematica" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wolfram.svg" />
 
 ### 🧩 Software Engineering
 - Object-Oriented Programming (OOP)
