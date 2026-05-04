@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Roey Salah
 
-💻 **Software Engineer | Systems & Networking**  
+💻 **Embedded & C/C++ Software Engineer | Communication Systems & IoT**  
 🎓 B.Sc. in Network & Communication Systems Engineering
 
-I'm a software-oriented engineer with strong foundations in **C/C++ and Python**,
-specializing in **low-level programming, concurrent systems, and networked applications**.
-I enjoy building robust, efficient software that operates close to the system
-and protocol level.
+I'm an Embedded and Software Engineer with a strong background in **C/C++ development, communication systems, and system-level design**.
 
-My background in communication systems gives me a deep understanding of how software
-interacts with networks, latency, reliability, and real-world constraints.
+I specialize in building **low-level, efficient, and reliable systems** that operate under real-world constraints such as limited power, latency, and challenging communication environments.
+
+My background in communication systems enables me to design and implement software that interacts closely with **network protocols, RF environments, and distributed systems**.
 
 ---
 
