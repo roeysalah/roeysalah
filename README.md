@@ -35,7 +35,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 <img align="left" alt="GNS3" width="30px" style="padding-right:10px;"
 src="https://avatars.githubusercontent.com/u/3126278?s=200&v=4" />
 <img align="left" alt="OMNeT++" width="30px" style="padding-right:10px;"
-src="https://omnetpp.org/images/logo.png" />
+src="OMNET.jpg" />
 <br />
 
 ---
