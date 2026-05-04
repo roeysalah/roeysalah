@@ -3,9 +3,9 @@
 💻 **Embedded & C/C++ Software Engineer | Communication Systems & IoT**  
 🎓 B.Sc. in Network & Communication Systems Engineering
 
-I'm an Embedded and Software Engineer with a strong background in **C/C++ development, communication systems, and system-level design**.
+I'm an Embedded and Software Engineer with a strong background in **C/C++ development, communication systems, and system - level design**.
 
-I specialize in building **low-level, efficient, and reliable systems** that operate under real-world constraints such as limited power, latency, and challenging communication environments.
+I specialize in building **low - level, efficient, and reliable systems** that operate under real - world constraints such as limited power, latency, and challenging communication environments.
 
 My background in communication systems enables me to design and implement software that interacts closely with **network protocols, RF environments, and distributed systems**.
 
@@ -59,11 +59,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 ---
 
 ## 🎯 Areas of Interest
-- Embedded Systems & Low-Level Development  
+- Embedded Systems & Low - Level Development  
 - C/C++ Software Engineering  
 - Communication Systems & Wireless Technologies  
 - IoT & Distributed Systems  
-- Real-Time & High-Performance Systems  
+- Real - Time & High-Performance Systems  
 
 ---
 
