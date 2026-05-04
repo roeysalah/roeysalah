@@ -38,31 +38,37 @@ src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 ---
 
 ### 🧩 Software Engineering
-- Object-Oriented Programming (OOP)
-- Multithreading & Concurrency
-- Client–Server Architectures
-- Memory Management & Debugging
-- System-Level Design
-- Linux-based Development
+- Embedded Systems  
+- Low-Power Design  
+- Object-Oriented Programming (OOP)  
+- Multithreading & Concurrency  
+- Client–Server Architectures  
+- Memory Management & Debugging  
+- System-Level Design  
+- Linux-based Development  
 
-### ⚙️ Networking (Applied Through Code)
-- TCP / UDP Socket Programming
-- OSI & TCP/IP Models
-- Routing Protocols: OSPF, BGP, AODV
-- Network Performance Analysis
-- Distributed & Real-Time Systems
+---
+
+### ⚙️ Networking & Communication
+- TCP / UDP Socket Programming  
+- OSI & TCP/IP Models  
+- Wireless Communication (LoRa / Sub-GHz)  
+- Routing Protocols: OSPF, BGP, AODV  
+- Network Performance Analysis  
+- IoT Systems  
+- Distributed & Real-Time Systems  
 
 ---
 
 ## 🎯 Areas of Interest
-- Software Engineering (Backend / Systems)
-- Distributed Systems
-- Low-Level & High-Performance Code
-- Networking-Oriented Software
-- Real-Time & Concurrent Applications
+- Embedded Systems & Low-Level Development  
+- C/C++ Software Engineering  
+- Communication Systems & Wireless Technologies  
+- IoT & Distributed Systems  
+- Real-Time & High-Performance Systems  
 
 ---
 
 ## 📫 Contact
-- 📧 Email: roeysalah0@gmail.com
+- 📧 Email: roeysalah0@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/roey-salah/
