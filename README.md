@@ -30,7 +30,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Wireshark" width="30px" style="padding-right:10px;"
 src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
-
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="GNS3" width="30px" style="padding-right:10px;"
+src="https://avatars.githubusercontent.com/u/3126278?s=200&v=4" />
+<img align="left" alt="OMNeT++" width="30px" style="padding-right:10px;"
+src="https://omnetpp.org/images/logo.png" />
 <br />
 
 ---
